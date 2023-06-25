@@ -1,0 +1,97 @@
+/* CSS for Patient Appointments */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #05abbac8;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Main styles */
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Section styles */
+  section {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  /* H2 styles */
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  /* H3 styles */
+  h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  /* Label styles */
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  /* Input styles */
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+  }
+  
+  /* Button styles */
+  button[type="submit"] {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #118aa0;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Button hover styles */
+  button[type="submit"]:hover {
+    background-color: #0f7a94ac;
+  }
+  
+  /* List styles */
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  /* List item styles */
+  li {
+    margin-bottom: 10px;
+  }
